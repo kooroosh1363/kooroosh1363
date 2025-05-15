@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--<h1 align="center">Hi 👋 I'm Peyman Raad</h1>
+<h1 align="center">Hi 👋 I'm Peyman Raad</h1>
 <p align="center">
 🎓 Data Science & AI Enthusiast | 💻 Former Front-End Dev | 🤖 CV & ML Explorer  
 </p>
@@ -23,9 +22,9 @@
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Kaggle](https://www.kaggle.com/yourusername)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/peyman-radmanesh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWoyR2SaISmG279c4gfVllw%3D%3D)  
+- [Kaggle](https://www.kaggle.com/peymanradmanesh)
+- [Email](peymanraad1363@gmail.com)
 
 ---
 ⭐️ From [kooroosh1363](https://github.com/kooroosh1363)
