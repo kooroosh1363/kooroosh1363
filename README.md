@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/kooroosh1363/kooroosh1363/blob/main/1.gif?raw=true" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Peyman Raad</h1>
 <p align="center">
 🎓 Data Science & AI Enthusiast | 💻 Former Front-End Dev | 🤖 CV & ML Explorer  
