@@ -1,7 +1,10 @@
 ## Hi there 👋
+<!-- 
 <p align="center">
   <img src="https://github.com/kooroosh1363/kooroosh1363/blob/main/1.gif?raw=true" width="100%" />
 </p>
+کد مربوط به عکس هدر - فعلاً غیرفعال شده
+-->
 
 <h1 align="center">Hi 👋 I'm Peyman Raad</h1>
 <p align="center">
