@@ -1,24 +1,32 @@
 <div align="center">
 
-# Hi, I'm Peyman Raad 👋
+# 👋 Hi, I'm Peyman Raad
 
 ### Applied AI & Data Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=720&lines=Building+AI+Agents+%26+Intelligent+Automations;Turning+Data+into+Decisions+and+Actions;Data+Analytics+%E2%86%92+Machine+Learning+%E2%86%92+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=760&lines=Building+AI+Agents+%26+Intelligent+Automations;Turning+Data+into+Decisions+%26+Actions;Data+Analytics+%E2%86%92+Machine+Learning+%E2%86%92+Agentic+AI" alt="Typing SVG" />
 
-**AI Agents & Automation · Data Analytics · Machine Learning**
+**AI Agents & Automation · Data Analytics · Data Science & Machine Learning**
 
-I build intelligent systems that connect **data, machine learning, LLMs, APIs, and business workflows**.
+I build intelligent systems that connect **data, machine learning, LLMs, APIs and real-world business workflows**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/peyman-radmanesh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/peymanradmanesh">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 What I Do
+## 🧠 What I Build
 
-My background spans **Front-End Development, Data Analytics, Data Science, Machine Learning, and Computer Vision**.
-
-Today, my main focus is at the intersection of **Data + Applied AI**:
+My work sits at the intersection of **Data + Machine Learning + Agentic AI**.
 
 <table>
 <tr>
@@ -26,7 +34,7 @@ Today, my main focus is at the intersection of **Data + Applied AI**:
 
 ### 🤖 AI Agents
 
-Building AI-powered agents, RAG systems, multi-agent workflows and intelligent business automation.
+Building tool-using AI agents, RAG systems, multi-agent workflows and intelligent business automation.
 
 `LLMs` `RAG` `n8n` `APIs` `Agents`
 
@@ -35,7 +43,7 @@ Building AI-powered agents, RAG systems, multi-agent workflows and intelligent b
 
 ### 📊 Data Analytics
 
-Turning raw data into business insights through SQL, Python, dashboards and analytical decision-making.
+Turning raw data into business insights through Python, SQL, visualization, dashboards and analytical decision-making.
 
 `SQL` `Pandas` `Plotly` `Streamlit`
 
@@ -52,57 +60,141 @@ Building explainable ML systems for prediction, segmentation, forecasting and in
 </tr>
 </table>
 
+> **Current focus:** building AI systems that don't just answer questions — they reason, use tools, work with data and take action.
+
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Work
 
-### 🤖 Agentic AI & Automation Lab
+## 🤖 Agentic AI & Automation Lab
 
-A growing collection of real-world AI automation systems — evolving from workflow automation into **RAG, AI decision systems, multi-agent workflows, business operations automation, monitoring and infrastructure**.
+A growing engineering lab of real-world AI automation systems — evolving from workflow automation into **RAG, AI decision systems, multi-agent workflows, business operations automation and production infrastructure**.
 
-> Customer Support · Lead Scoring · Document Intelligence · Churn Prevention · RAG · BI Automation · Multi-Agent Research · Business Operations
+**Customer Support · Lead Scoring · Document Intelligence · Churn Prevention · RAG · BI Automation · Multi-Agent Research · Business Operations**
 
-### 🧠 LLM Data-to-Text Agent
+➡️ [Explore the Automation Lab](https://github.com/kooroosh1363/n8n-workflows-practice)
 
-An LLM-powered agent that transforms structured data into meaningful reports and natural-language insights.
+---
 
-**Data → Analysis → LLM Reasoning → Report**
+## 🧠 LLM Data → Text Agent
+
+An LLM-powered agent for transforming structured data into meaningful natural-language reports and insights.
+
+```text
+Structured Data
+      ↓
+   Analysis
+      ↓
+ LLM Reasoning
+      ↓
+ Human-Readable Report
+```
+
+➡️ [Explore the Project](https://github.com/kooroosh1363/llm-data-to-text-agent)
+
+---
+
+## 📊 Data Analytics
+
+I build analytics projects around **business questions**, not just visualizations.
+
+My work explores:
+
+`Business KPIs` · `Sales Analytics` · `Customer Analytics` · `Operational Analytics` · `EDA` · `Dashboards`
+
+### 🛍️ Superstore Sales Analysis
+
+End-to-end retail analysis covering sales, profitability, customer behavior, shipping performance and business KPIs.
+
+➡️ [Explore the Project](https://github.com/kooroosh1363/Superstore-Sales-Analysis)
+
+### 🚦 NYC Collision Analytics
+
+Interactive analysis of traffic collision data with temporal, geographic and vehicle-level insights.
+
+➡️ [Explore the Project](https://github.com/kooroosh1363/nyc-collision-dashboard)
+
+---
+
+## 🧠 Data Science & Machine Learning
+
+My Data Science work focuses on moving from experimentation toward **explainable, reproducible and increasingly production-oriented ML systems**.
 
 ### ✈️ Flight Delay Prediction
 
-Explainable machine-learning pipeline built on millions of flight records using **XGBoost + SHAP**.
+Machine-learning pipeline built on millions of flight records using **XGBoost + SHAP** for prediction and explainability.
 
-### 📊 Business & Data Analytics
+➡️ [Explore the Project](https://github.com/kooroosh1363/Flight-Delay-Prediction-XGBoost-SHAP)
 
-Building analytics projects around sales, customers, operations, KPIs, dashboards and increasingly advanced SQL/business analysis.
+### 🌊 Smart Water Segmentation
+
+Semantic segmentation of satellite imagery using **U-Net and Deep Learning**.
+
+➡️ [Explore the Project](https://github.com/kooroosh1363/smart-water-segmentation)
+
+### 👁️ Computer Vision
+
+My earlier AI work also includes object detection, real-time vision systems and vision-language models using technologies such as **YOLO, OpenCV and CLIP**.
 
 ---
 
-## 🔬 Where I'm Going
+# 🔬 Where Data Meets Agents
+
+This is where my work is heading.
+
+```text
+             DATA
+              │
+      ┌───────┼────────┐
+      │       │        │
+ Analytics    ML    Business Context
+      │       │        │
+      └───────┼────────┘
+              ↓
+          AI AGENT
+              ↓
+     Reasoning + Tools
+              ↓
+        APIs + Actions
+              ↓
+     BUSINESS OUTCOME
+```
+
+I'm interested in building systems where **data doesn't stop at a dashboard or prediction**.
+
+It becomes an input for intelligent systems that can **reason and act**.
+
+---
+
+# 🧭 My Journey
 
 ```text
 Front-End Development
         ↓
-Data Analytics
+Python & Data Analytics
         ↓
 Data Science & Machine Learning
         ↓
 Deep Learning & Computer Vision
         ↓
-LLMs & AI Agents
+LLMs
         ↓
-Intelligent Data & Automation Systems
+AI Agents
+        ↓
+Automation & Agentic Systems
+        ↓
+Intelligent Data Systems 🚀
 ```
 
-I'm deliberately building each new project to be more advanced than the previous one.
+My earlier front-end background taught me how to build interfaces.
 
-The goal is to combine:
+Data Science taught me how to extract intelligence from data.
 
-**Data → Machine Learning → AI Reasoning → Automated Action**
+Now I'm combining those foundations with **LLMs, agents and automation to build complete AI systems.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -114,26 +206,31 @@ The goal is to combine:
 
 <div align="center">
 
-**AI & Agents**
-LLMs · RAG · AI Agents · n8n · Tool Calling · Multi-Agent Systems
+### 🤖 AI & Agents
 
-**Data**
-Python · SQL · Pandas · NumPy · PostgreSQL · Data Visualization
+`LLMs` · `RAG` · `AI Agents` · `n8n` · `Tool Calling` · `Multi-Agent Systems`
 
-**Machine Learning**
-Scikit-learn · XGBoost · SHAP · TensorFlow · PyTorch · OpenCV
+### 📊 Data
 
-**Engineering**
-FastAPI · Docker · REST APIs · Git · GitHub
+`Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `Plotly` · `Streamlit`
+
+### 🧠 Machine Learning
+
+`Scikit-learn` · `XGBoost` · `SHAP` · `TensorFlow` · `PyTorch` · `OpenCV`
+
+### ⚙️ Engineering
+
+`FastAPI` · `Docker` · `REST APIs` · `Git` · `GitHub`
 
 </div>
 
 ---
 
-## 🧪 Currently Building
+# 🧪 Currently Building
 
 ```python
-focus = {
+peyman = {
+
     "agentic_ai": [
         "AI Agents",
         "RAG Systems",
@@ -148,32 +245,53 @@ focus = {
         "Decision Intelligence"
     ],
 
-    "mission":
+    "goal":
         "Build intelligent systems that turn data into decisions and actions."
 }
 ```
 
 ---
 
-## 📈 GitHub = My Engineering Lab
+# 📈 This GitHub Is My Engineering Lab
 
-This profile is not a collection of random projects.
+This profile isn't meant to be a collection of random projects.
 
-I'm building a visible progression:
+I'm deliberately building a visible progression:
 
-**better analytics → stronger ML → production systems → intelligent agents**
+```text
+Better Analytics
+      ↓
+Stronger Machine Learning
+      ↓
+Production AI Systems
+      ↓
+Intelligent Agents
+      ↓
+Data-Driven Automation
+```
 
-Every new repository should introduce something I couldn't demonstrate in the previous one.
+**Every new project should demonstrate something I couldn't demonstrate in the previous one.**
 
 ---
 
 <div align="center">
 
-### Data → Intelligence → Decisions → Automation
+## Data → Intelligence → Decisions → Automation
 
-**Building · Learning · Shipping · Improving**
+### Build · Experiment · Ship · Improve · Repeat
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/peyman-radmanesh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6huwAbVhTnWvA324vNEmnw%3D%3D)">LinkedIn</a>
- •  <a href="[https://www.kaggle.com/](https://www.kaggle.com/peymanradmanesh)">Kaggle</a>
+<br>
+
+<a href="https://www.linkedin.com/in/peyman-radmanesh/">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.kaggle.com/peymanradmanesh">
+  <img src="https://img.shields.io/badge/My_Data_Work-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<br><br>
+
+⭐ **Always building. Always learning.**
 
 </div>
