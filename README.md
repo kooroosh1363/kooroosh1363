@@ -1,51 +1,230 @@
-## Hi there 👋
-<!-- 
-<p align="center">
-  <img src="https://github.com/kooroosh1363/kooroosh1363/blob/main/1.gif?raw=true" width="100%" />
-</p>
-کد مربوط به عکس هدر - فعلاً غیرفعال شده
--->
+<div align="center">
 
-<h1 align="center">Hi 👋 I'm Peyman Raad</h1>
-<p align="center">
-🎓 Data Science & AI Enthusiast | 💻 Former Front-End Dev | 🤖 CV & ML Explorer  
-</p>
+# 👋 Hi, I'm Peyman Raad
 
----
+### Applied AI & Data Engineer
 
-### 🚀 Skills & Interests:
-- 👁️ Computer Vision (YOLO, OpenCV, CNNs)
-- 📊 Data Analysis (Pandas, Numpy, Matplotlib, Seaborn)
-- 🧠 Machine Learning (Scikit-Learn, XGBoost, SVM)
-- 💻 Front-End Dev (React.js, Tailwind, HTML/CSS)
-- 📚 Currently Learning: Deep Learning, Time Series, LLMs
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%26+Intelligent+Automations;Turning+Data+into+Decisions+%26+AI+Systems;Data+Analytics+%E2%86%92+Machine+Learning+%E2%86%92+Agentic+AI;Building+Real-World+AI%2C+One+Project+at+a+Time" alt="Typing SVG" />
+
+**AI Agents • Automation • Data Analytics • Machine Learning**
+
+I build intelligent systems that connect **data, machine learning, LLMs, APIs and business workflows**.
+
+</div>
 
 ---
 
-### 📈 Latest Projects:
-- [🔗 Data Science Portfolio](https://github.com/kooroosh1363/PYTHON-DATA_SCIENCE-MACHINE_LEARUNNG)
-- [🔗 Personal Website (React+Tailwind)](https://github.com/kooroosh1363/REACT-TAILWIND-persona-web1)
+## 🧭 My Journey
+
+```text
+Front-End Development
+        ↓
+Python & Data Analysis
+        ↓
+Machine Learning
+        ↓
+Deep Learning & Computer Vision
+        ↓
+LLMs & AI Agents
+        ↓
+Agentic Automation & Intelligent Data Systems
+```
+
+My background started in web development and evolved into **Data Science and Applied AI**.
+
+Today, my work sits at the intersection of:
+
+🤖 **AI Agents & Automation**
+📊 **Data Analytics & Business Intelligence**
+🧠 **Machine Learning & Data Science**
+
+The goal is not just to train models or build demos.
+
+I focus on building systems that can **understand data, make decisions, automate workflows and solve real business problems.**
 
 ---
 
-### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/peyman-radmanesh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWoyR2SaISmG279c4gfVllw%3D%3D)  
-- [Kaggle](https://www.kaggle.com/peymanradmanesh)
-- [Email](peymanraad1363@gmail.com)
+# 🤖 AI Agents & Automation
+
+I'm actively building increasingly advanced AI-powered workflows and agentic systems using technologies such as:
+
+**LLMs • n8n • RAG • APIs • PostgreSQL • Supabase • Automation • Multi-Agent Systems**
+
+### 🔬 Current Agentic AI Lab
+
+My automation work has evolved from simple workflow automation into systems involving:
+
+* AI customer support
+* Intelligent lead scoring
+* AI document processing
+* Customer churn prediction & retention
+* Automated BI & KPI reporting
+* RAG-powered proposal generation
+* Multilingual support agents
+* Competitive intelligence
+* AI meeting intelligence
+* Multi-agent market research
+* AI-powered business operations
+* n8n infrastructure & monitoring
+* Custom n8n nodes and integrations
+
+> I continuously expand this lab with more advanced real-world AI automation systems.
 
 ---
-⭐️ From [kooroosh1363](https://github.com/kooroosh1363)
 
-**kooroosh1363/kooroosh1363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 Data Analytics
 
-Here are some ideas to get you started:
+I use data to answer business questions, uncover patterns and build decision-support systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Analytics Skills
+
+`Python` `SQL` `Pandas` `NumPy` `Plotly` `Matplotlib` `Streamlit` `PostgreSQL`
+
+My analytics projects cover areas such as:
+
+**Business KPIs • Sales Analytics • Customer Analytics • Operational Analytics • Data Visualization • Dashboards • EDA**
+
+### Selected Analytics Work
+
+**🛍️ Superstore Sales Analysis**
+
+End-to-end retail analytics covering sales, profitability, customer behavior, shipping performance and business KPIs with an interactive Streamlit dashboard.
+
+**🚦 NYC Collision Analytics Dashboard**
+
+Interactive analysis of traffic collision data with temporal, geographic and vehicle-level insights.
+
+---
+
+# 🧠 Data Science & Machine Learning
+
+My Data Science work focuses on moving beyond notebooks toward reproducible, explainable and production-oriented ML systems.
+
+### Areas I'm Building In
+
+`Classification` `Regression` `Clustering` `Time Series` `NLP` `Recommendation Systems` `Explainable AI`
+
+### Selected ML Work
+
+**✈️ Flight Delay Prediction — XGBoost + SHAP**
+
+Machine-learning pipeline built on millions of flight records with preprocessing, multiclass classification and explainable predictions using SHAP.
+
+**🌊 Smart Water Segmentation**
+
+U-Net based semantic segmentation of satellite imagery for detecting water bodies.
+
+**👁️ Computer Vision Experiments**
+
+Object detection, zero-shot image recognition and real-time vision systems using YOLO, OpenCV and CLIP.
+
+---
+
+# 🧬 Where Data Meets Agents
+
+This is the area I'm most interested in building next.
+
+```text
+DATA
+ │
+ ├── Analytics
+ │
+ ├── Machine Learning
+ │
+ └── Business Context
+        ↓
+      AI AGENT
+        ↓
+ Reasoning + Tools + APIs
+        ↓
+   Automated Action
+```
+
+I'm exploring systems such as:
+
+**AI Data Analysts**
+
+**Autonomous BI Agents**
+
+**ML-powered Decision Agents**
+
+**Churn Prediction & Retention Agents**
+
+**AI Reporting Systems**
+
+**Forecasting & Decision Intelligence Agents**
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,postgres,supabase,docker,fastapi,git,github,js,ts,react&perline=7" />
+
+</div>
+
+### Data & Machine Learning
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `XGBoost` • `SHAP` • `TensorFlow` • `PyTorch`
+
+### AI & Agentic Systems
+
+`LLMs` • `RAG` • `AI Agents` • `n8n` • `Prompt Engineering` • `Tool Calling` • `Multi-Agent Systems`
+
+### Data & Infrastructure
+
+`SQL` • `PostgreSQL` • `Supabase` • `REST APIs` • `Docker` • `Git`
+
+### Visualization & Applications
+
+`Streamlit` • `Plotly` • `Matplotlib`
+
+---
+
+# 🚀 Currently Building
+
+```python
+current_focus = {
+    "AI": [
+        "AI Agents",
+        "Agentic Workflows",
+        "RAG Systems",
+        "Business Automation"
+    ],
+    "Data": [
+        "Advanced Data Analytics",
+        "Machine Learning",
+        "Time Series",
+        "Production ML"
+    ],
+    "mission":
+        "Build intelligent systems that turn data into decisions and actions."
+}
+```
+
+---
+
+# 📈 The Portfolio Philosophy
+
+I treat this GitHub as an evolving engineering lab.
+
+Each new project is designed to be more challenging than the previous one by introducing new concepts such as:
+
+**better data pipelines → stronger analytics → more advanced ML → production systems → intelligent agents**
+
+So if you're looking through my repositories, you're not only seeing finished projects.
+
+You're seeing the progression.
+
+---
+
+<div align="center">
+
+### 🧠 Data → Intelligence → Decisions → Automation
+
+**Building. Learning. Shipping. Improving.**
+
+⭐ Explore the repositories to follow the journey.
+
+</div>
