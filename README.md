@@ -1,117 +1,52 @@
 <div align="center">
 
-# 👋 Hey, I'm Peyman Raad
+# Hi, I'm Peyman Raad 👋
 
-### AI Engineer • AI Agents • Automation • Applied Machine Learning
+### Applied AI & Data Engineer
 
-**I build intelligent systems that can reason, use tools, automate workflows, and turn data into actions.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=720&lines=Building+AI+Agents+%26+Intelligent+Automations;Turning+Data+into+Decisions+and+Actions;Data+Analytics+%E2%86%92+Machine+Learning+%E2%86%92+Agentic+AI" alt="Typing SVG" />
 
-<br/>
+**AI Agents & Automation · Data Analytics · Machine Learning**
 
-[![GitHub](https://img.shields.io/badge/GitHub-kooroosh1363-181717?style=for-the-badge\&logo=github)](https://github.com/kooroosh1363)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peyman_Raad-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/peyman-raad/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Peyman_Raad-20BEFF?style=for-the-badge\&logo=kaggle)](https://www.kaggle.com/peymanraad)
+I build intelligent systems that connect **data, machine learning, LLMs, APIs, and business workflows**.
 
 </div>
 
 ---
 
-## 🧠 What I'm Building
+## 🧭 What I Do
 
-```text
-Human Intent
-     ↓
-  AI Agent
-     ↓
-Reason + Tools + Data
-     ↓
-   Actions
-     ↓
-Useful Automation
-```
+My background spans **Front-End Development, Data Analytics, Data Science, Machine Learning, and Computer Vision**.
 
-I'm focused on building practical AI systems — not just calling an LLM API.
-
-My current work revolves around:
-
-* 🤖 **AI Agents** — tool-using, task-oriented intelligent systems
-* ⚡ **Workflow Automation** — connecting AI with real-world processes
-* 🧠 **LLM Applications** — turning language models into useful products
-* 🔗 **Agentic Workflows** — reasoning, tools, APIs and orchestration
-* 📊 **Applied ML & Data** — extracting useful decisions from data
-* 👁️ **Computer Vision** — detection, segmentation and vision-language models
-
-> **Current obsession:** making AI systems actually *do things*, not just talk about them.
-
----
-
-## 🚀 Featured Work
-
-### 🤖 AI Agents & Automation
+Today, my main focus is at the intersection of **Data + Applied AI**:
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🧠 LLM Data → Text Agent
+### 🤖 AI Agents
 
-An LLM-powered agent for transforming structured data into human-readable reports.
+Building AI-powered agents, RAG systems, multi-agent workflows and intelligent business automation.
 
-**Focus**
-
-`LLMs` `Agents` `Data → Text` `Python`
-
-[→ Explore Project](https://github.com/kooroosh1363/llm-data-to-text-agent)
+`LLMs` `RAG` `n8n` `APIs` `Agents`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%">
+### 📊 Data Analytics
 
-### ⚡ n8n Automation Lab
+Turning raw data into business insights through SQL, Python, dashboards and analytical decision-making.
 
-A growing collection of practical automation workflows and experiments built with n8n.
-
-**Focus**
-
-`Automation` `n8n` `Workflows` `Integrations`
-
-[→ Explore Workflows](https://github.com/kooroosh1363/n8n-workflows-practice)
+`SQL` `Pandas` `Plotly` `Streamlit`
 
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%">
+### 🧠 Data Science
 
-### 🤖 AI Agents Lab
+Building explainable ML systems for prediction, segmentation, forecasting and intelligent decision support.
 
-Hands-on experiments and implementations from my journey into agentic AI.
-
-**Focus**
-
-`AI Agents` `Tool Use` `Python` `LLMs`
-
-[→ Explore Agents](https://github.com/kooroosh1363/agents-course-practice)
-
-</td>
-
-<td width="50%">
-
-### 🧪 More Agents Coming...
-
-I'm continuously building new experiments around:
-
-`Multi-Agent Systems`
-
-`Tool Calling`
-
-`RAG`
-
-`Agent Memory`
-
-`Workflow Automation`
-
-**Watch this space 👀**
+`Scikit-learn` `XGBoost` `SHAP` `TensorFlow`
 
 </td>
 </tr>
@@ -119,127 +54,126 @@ I'm continuously building new experiments around:
 
 ---
 
-## 🔬 Applied AI & Machine Learning
+## 🚀 Featured Work
 
-My background in ML, data science and computer vision gives me the foundation to build AI systems beyond prompt engineering.
+### 🤖 Agentic AI & Automation Lab
 
-| Project                                                                                               | What it explores                                        | Stack                     |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| ✈️ [Flight Delay Prediction](https://github.com/kooroosh1363/Flight-Delay-Prediction-XGBoost-SHAP)    | Explainable ML pipeline for airline delay prediction    | `XGBoost` `SHAP` `Python` |
-| 👁️ [Zero-Shot Object Recognition](https://github.com/kooroosh1363/zero-shot-object-recognition-clip) | Recognizing unseen objects using vision-language models | `CLIP` `Computer Vision`  |
-| 🌊 [Smart Water Segmentation](https://github.com/kooroosh1363/smart-water-segmentation)               | Satellite-image segmentation using deep learning        | `U-Net` `Deep Learning`   |
-| 🚗 [Vehicle Detector](https://github.com/kooroosh1363/vehicle-detector)                               | Vehicle detection in traffic video                      | `YOLO` `OpenCV`           |
-| 😷 [Face Mask Detector](https://github.com/kooroosh1363/face-mask-detector)                           | Real-time deep-learning detection                       | `Python` `Deep Learning`  |
+A growing collection of real-world AI automation systems — evolving from workflow automation into **RAG, AI decision systems, multi-agent workflows, business operations automation, monitoring and infrastructure**.
+
+> Customer Support · Lead Scoring · Document Intelligence · Churn Prevention · RAG · BI Automation · Multi-Agent Research · Business Operations
+
+### 🧠 LLM Data-to-Text Agent
+
+An LLM-powered agent that transforms structured data into meaningful reports and natural-language insights.
+
+**Data → Analysis → LLM Reasoning → Report**
+
+### ✈️ Flight Delay Prediction
+
+Explainable machine-learning pipeline built on millions of flight records using **XGBoost + SHAP**.
+
+### 📊 Business & Data Analytics
+
+Building analytics projects around sales, customers, operations, KPIs, dashboards and increasingly advanced SQL/business analysis.
 
 ---
 
-## 🛠️ Tech I Work With
+## 🔬 Where I'm Going
+
+```text
+Front-End Development
+        ↓
+Data Analytics
+        ↓
+Data Science & Machine Learning
+        ↓
+Deep Learning & Computer Vision
+        ↓
+LLMs & AI Agents
+        ↓
+Intelligent Data & Automation Systems
+```
+
+I'm deliberately building each new project to be more advanced than the previous one.
+
+The goal is to combine:
+
+**Data → Machine Learning → AI Reasoning → Automated Action**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### AI / Agents
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,postgres,supabase,docker,fastapi,git,github,js,ts,react&perline=7" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square\&logo=openai\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
+</div>
 
-### Machine Learning / Data
+<br>
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+<div align="center">
 
-### Engineering
+**AI & Agents**
+LLMs · RAG · AI Agents · n8n · Tool Calling · Multi-Agent Systems
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+**Data**
+Python · SQL · Pandas · NumPy · PostgreSQL · Data Visualization
+
+**Machine Learning**
+Scikit-learn · XGBoost · SHAP · TensorFlow · PyTorch · OpenCV
+
+**Engineering**
+FastAPI · Docker · REST APIs · Git · GitHub
 
 </div>
 
 ---
 
-## 🧭 My Journey
-
-```text
-Front-End Development
-        ↓
-    Python & Data
-        ↓
- Machine Learning
-        ↓
- Computer Vision
-        ↓
-      LLMs
-        ↓
-   AI Agents
-        ↓
-Automation & Agentic Systems
-        ↓
-        🚀
-```
-
-I started in front-end development, moved deeper into Python, data science and machine learning, and eventually found the area that interests me most:
-
-### Building AI systems that can reason, use tools and take action.
-
-That combination of **AI + software + automation** is where I'm currently going deep.
-
----
-
-## 🧪 Currently Exploring
+## 🧪 Currently Building
 
 ```python
-peyman = {
-    "building": [
+focus = {
+    "agentic_ai": [
         "AI Agents",
-        "Automation Workflows",
-        "LLM Applications"
+        "RAG Systems",
+        "Multi-Agent Workflows",
+        "Business Automation"
     ],
 
-    "exploring": [
-        "Multi-Agent Systems",
-        "RAG",
-        "Agent Memory",
-        "Tool Calling",
-        "Agent Evaluation"
+    "data": [
+        "Advanced SQL & Analytics",
+        "Data Science",
+        "Machine Learning",
+        "Decision Intelligence"
     ],
 
-    "goal": "Build AI systems that are actually useful."
+    "mission":
+        "Build intelligent systems that turn data into decisions and actions."
 }
 ```
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub = My Engineering Lab
 
-<div align="center">
+This profile is not a collection of random projects.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kooroosh1363&show_icons=true&hide_border=true&theme=transparent" />
+I'm building a visible progression:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooroosh1363&layout=compact&hide_border=true&theme=transparent" />
+**better analytics → stronger ML → production systems → intelligent agents**
 
-</div>
+Every new repository should introduce something I couldn't demonstrate in the previous one.
 
 ---
 
 <div align="center">
 
-## 🤝 Let's Build Something Intelligent
+### Data → Intelligence → Decisions → Automation
 
-I'm interested in **AI engineering, agents, automation, LLM applications and applied AI.**
+**Building · Learning · Shipping · Improving**
 
-If you're building something where AI needs to go beyond answering questions and actually **reason, use tools or automate work**, I'd love to connect.
-
-<br/>
-
-**Build → Experiment → Automate → Improve → Repeat**
-
-<br/>
-
-⭐ **Always building. Always learning.**
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/peyman-radmanesh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6huwAbVhTnWvA324vNEmnw%3D%3D)">LinkedIn</a>
+ •  <a href="[https://www.kaggle.com/](https://www.kaggle.com/peymanradmanesh)">Kaggle</a>
 
 </div>
