@@ -1,0 +1,30 @@
+name: Update royal terminal profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch public GitHub data
+        run: python scripts/fetch_github_stats.py
+      - name: Generate animated terminal profile
+        run: python scripts/generate_terminal_profile.py
+      - name: Commit refreshed profile data
+        run: |
+          if git diff --quiet -- data/github_stats.json assets/royal-terminal.svg; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/github_stats.json assets/royal-terminal.svg
+          git commit -m "chore: refresh live profile data"
+          git push
