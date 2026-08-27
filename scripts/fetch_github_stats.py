@@ -39,6 +39,14 @@ for day, level, tooltip in pattern.findall(contribution_html):
 today = date.today()
 range_start = today - timedelta(days=364)
 recent = [d for d in days if range_start.isoformat() <= d["date"] <= today.isoformat()]
+counts_by_date = {item["date"]: item["count"] for item in recent}
+
+
+def contributions_since(days_back: int) -> int:
+    start = today - timedelta(days=days_back - 1)
+    return sum(
+        count for day, count in counts_by_date.items() if start.isoformat() <= day <= today.isoformat()
+    )
 
 payload = {
     "username": USERNAME,
@@ -48,6 +56,9 @@ payload = {
     "following": int(profile["following"]),
     "stars": sum(int(repo["stargazers_count"]) for repo in repos),
     "contributions": sum(day["count"] for day in recent),
+    "today_count": counts_by_date.get(today.isoformat(), 0),
+    "last_7_days": contributions_since(7),
+    "last_30_days": contributions_since(30),
     "active_days": sum(day["count"] > 0 for day in recent),
     "max_daily": max((day["count"] for day in recent), default=0),
     "days": days,
