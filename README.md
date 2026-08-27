@@ -25,6 +25,8 @@ My focus is the engineering layer between a promising demo and a dependable syst
 | **[Agentic Automation Lab](https://github.com/kooroosh1363/agentic-automation-lab)** | Progressive systems across workflow automation, RAG, multi-agent orchestration, data engineering, and n8n infrastructure | Importable artifacts · project-level documentation · explicit maturity labels |
 | **[Supply Chain Inventory Analytics](https://github.com/kooroosh1363/supply-chain-inventory-analytics)** | Defensible SKU prioritization using real UCI logistics data without inventing unavailable inventory fields | Strict schema and domain checks · 12 tests · offline CI plus live-source validation |
 
+<img src="./assets/signal.svg" width="100%" alt="Live portfolio signal and engineering evidence priorities" />
+
 <details>
 <summary><strong>More verified data and analytics work</strong></summary>
 <br />
