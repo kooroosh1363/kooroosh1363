@@ -22,9 +22,9 @@ jobs:
         run: python scripts/generate_terminal_profile.py
       - name: Commit refreshed profile data
         run: |
-          if git diff --quiet -- data/github_stats.json assets/royal-terminal.svg; then exit 0; fi
+          if git diff --quiet -- data/github_stats.json assets/royal-terminal.svg assets/project-*.svg; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/github_stats.json assets/royal-terminal.svg
+          git add data/github_stats.json assets/royal-terminal.svg assets/project-*.svg
           git commit -m "chore: refresh live profile data"
           git push

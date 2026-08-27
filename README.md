@@ -8,6 +8,21 @@
 
 </div>
 
+## Selected command systems
+
+Click any card to open its repository.
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/kooroosh1363/applied-agentic-systems"><img src="./assets/project-applied-agentic-systems.svg" width="100%" alt="Open Applied Agentic Systems" /></a></td>
+<td width="50%"><a href="https://github.com/kooroosh1363/llm-data-to-text-agent"><img src="./assets/project-data-to-text-agent.svg" width="100%" alt="Open Evidence-First Data-to-Text Agent" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/kooroosh1363/agentic-automation-lab"><img src="./assets/project-agentic-automation-lab.svg" width="100%" alt="Open Agentic Automation Lab" /></a></td>
+<td width="50%"><a href="https://github.com/kooroosh1363/supply-chain-inventory-analytics"><img src="./assets/project-supply-chain-analytics.svg" width="100%" alt="Open Supply Chain Inventory Analytics" /></a></td>
+</tr>
+</table>
+
 <details>
 <summary><strong>Accessible portfolio summary and project links</strong></summary>
 <br />
