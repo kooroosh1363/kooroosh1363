@@ -3,7 +3,13 @@ name: Update royal terminal profile
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 5 * * *"
+    # Refresh shortly after the hour so the royal dashboard stays close to
+    # GitHub's native contribution graph throughout the day.
+    - cron: "17 * * * *"
+
+concurrency:
+  group: royal-terminal-profile-refresh
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -11,6 +17,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
