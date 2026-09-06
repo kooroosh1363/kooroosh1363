@@ -1,22 +1,17 @@
 {
   "username": "kooroosh1363",
-  "refreshed": "2026-09-05",
+  "refreshed": "2026-09-06",
   "public_repos": 81,
   "followers": 22,
   "following": 25,
   "stars": 12,
   "contributions": 630,
-  "today_count": 32,
-  "last_7_days": 102,
-  "last_30_days": 362,
+  "today_count": 0,
+  "last_7_days": 95,
+  "last_30_days": 360,
   "active_days": 224,
   "max_daily": 39,
   "days": [
-    {
-      "date": "2025-08-31",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-09-07",
       "level": 0,
@@ -278,7 +273,7 @@
       "count": 7
     },
     {
-      "date": "2025-09-01",
+      "date": "2026-09-06",
       "level": 0,
       "count": 0
     },
@@ -543,11 +538,6 @@
       "count": 7
     },
     {
-      "date": "2025-09-02",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-09-09",
       "level": 0,
       "count": 0
@@ -806,11 +796,6 @@
       "date": "2026-09-01",
       "level": 1,
       "count": 7
-    },
-    {
-      "date": "2025-09-03",
-      "level": 0,
-      "count": 0
     },
     {
       "date": "2025-09-10",
@@ -1073,11 +1058,6 @@
       "count": 12
     },
     {
-      "date": "2025-09-04",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-09-11",
       "level": 0,
       "count": 0
@@ -1338,11 +1318,6 @@
       "count": 4
     },
     {
-      "date": "2025-09-05",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-09-12",
       "level": 0,
       "count": 0
@@ -1601,11 +1576,6 @@
       "date": "2026-09-04",
       "level": 4,
       "count": 33
-    },
-    {
-      "date": "2025-09-06",
-      "level": 0,
-      "count": 0
     },
     {
       "date": "2025-09-13",
