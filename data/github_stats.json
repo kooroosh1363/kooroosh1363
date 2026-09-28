@@ -1,14 +1,14 @@
 {
   "username": "kooroosh1363",
-  "refreshed": "2026-09-27",
+  "refreshed": "2026-09-28",
   "public_repos": 87,
   "followers": 22,
   "following": 25,
   "stars": 13,
   "contributions": 800,
-  "today_count": 6,
-  "last_7_days": 58,
-  "last_30_days": 279,
+  "today_count": 0,
+  "last_7_days": 56,
+  "last_30_days": 272,
   "active_days": 245,
   "max_daily": 43,
   "days": [
@@ -536,6 +536,11 @@
       "date": "2026-09-21",
       "level": 1,
       "count": 2
+    },
+    {
+      "date": "2026-09-28",
+      "level": 0,
+      "count": 0
     },
     {
       "date": "2025-09-30",
