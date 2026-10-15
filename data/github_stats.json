@@ -5,10 +5,10 @@
   "followers": 20,
   "following": 25,
   "stars": 13,
-  "contributions": 926,
-  "today_count": 7,
-  "last_7_days": 75,
-  "last_30_days": 195,
+  "contributions": 931,
+  "today_count": 12,
+  "last_7_days": 80,
+  "last_30_days": 200,
   "active_days": 262,
   "max_daily": 43,
   "days": [
@@ -1334,8 +1334,8 @@
     },
     {
       "date": "2026-10-15",
-      "level": 1,
-      "count": 7
+      "level": 2,
+      "count": 12
     },
     {
       "date": "2025-10-17",
