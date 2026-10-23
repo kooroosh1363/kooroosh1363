@@ -5,11 +5,11 @@
   "followers": 20,
   "following": 25,
   "stars": 13,
-  "contributions": 1036,
-  "today_count": 0,
-  "last_7_days": 72,
-  "last_30_days": 281,
-  "active_days": 269,
+  "contributions": 1048,
+  "today_count": 7,
+  "last_7_days": 84,
+  "last_30_days": 293,
+  "active_days": 270,
   "max_daily": 43,
   "days": [
     {
@@ -1334,8 +1334,8 @@
     },
     {
       "date": "2026-10-22",
-      "level": 1,
-      "count": 6
+      "level": 2,
+      "count": 11
     },
     {
       "date": "2025-10-24",
@@ -1599,8 +1599,8 @@
     },
     {
       "date": "2026-10-23",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 7
     },
     {
       "date": "2025-10-25",
